@@ -1,59 +1,70 @@
-<!-- Banner / Logo -->
-<p align="center">
-  <img src="assets/logo.png" alt="FutureAction AI Logo" width="180">
-</p>
-
-<h1 align="center">✨ FutureAction AI ✨</h1>
-
-<p align="center">
-  <strong>No-Code • Low-Code • Açık Kaynak • Plugin Ekosistemi</strong>
-</p>
-
+<!-- Contact / Social Links -->
 <p align="center">
   <a href="mailto:futureactionai@gmail.com"><img src="https://img.shields.io/badge/Email-futureactionai%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.instagram.com/futureactionai?igsh=MXV4Z2x6M2sycGpkNA=="><img src="https://img.shields.io/badge/Instagram-%40futureactionai-ff69b4?style=flat-square&logo=instagram"></a>
+  <a href="https://www.instagram.com/futureactionai"><img src="https://img.shields.io/badge/Instagram-%40futureactionai-ff69b4?style=flat-square&logo=instagram"></a>
   <a href="https://www.linkedin.com/company/futureactionai/"><img src="https://img.shields.io/badge/LinkedIn-FutureActionAI-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
----
+<h1 align="center">FutureAction AI</h1>
 
-## 🚀 Hakkımızda
-FutureAction AI, **Augelab** ile no-code/low-code çözümler geliştirir,  
-**arka plan blok kodları** yazar ve açık kaynak topluluğunu güçlendirmeye odaklanır.
-
-💡 **Misyonumuz**  
-🌱 Hızlı prototipleme & ölçeklenebilir sistemler  
-🔌 Plugin ve entegrasyon çözümleri  
-🤝 Açık kaynak katkısı
-
----
-
-## 🛠️ Teknolojiler
 <p align="center">
-  <img src="https://img.shields.io/badge/Augelab-NoCode-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-lightgrey?style=for-the-badge&logo=github-actions">
+  <i>Applied intelligence through no-code design & open collaboration.</i>
 </p>
 
 ---
 
-## 🌟 Öne Çıkan Projeler
-| Proje | Açıklama |
-|-------|---------|
-| [Plugin Toolkit](#) | No-code tabanlı plugin geliştirme araç seti |
-| [Augelab Templates](#) | Hızlı başlangıç için şablon koleksiyonu |
+## 🧠 Who We Are
+
+**FutureAction AI** is an open-source initiative focused on building smart, accessible tools through **no-code/low-code development**.  
+We use **AugeLab Studio**, a visual programming environment, to design AI-powered workflows — from computer vision pipelines to interactive logic systems.
+
+Our approach removes technical barriers and invites everyone to innovate with AI — whether you're a coder or not.
 
 ---
 
-## 🤝 Katkı Çağrısı
-> Bizimle geliştirmek ister misiniz?  
-> **Pull request** gönderebilir, yeni özellik önerebilir veya hata bildirebilirsiniz.
+## 🚀 What We Do
 
-📧 **[futureactionai@gmail.com](mailto:futureactionai@gmail.com)**
+- 🧩 Build modular, plugin-based systems  
+- 🧠 Focus on vision-AI and sensor-based interaction  
+- 🔁 Combine rapid prototyping with scalable deployment  
+- 🌍 Enable contribution from all skill levels via visual tools  
 
 ---
 
-<p align="center">
-  <i>Birlikte geliştir, birlikte büyüt! 💜</i>
-</p>
+## 🔌 Key Projects
+
+| Project | Description |
+|--------|-------------|
+| [SmilePass](https://github.com/futureactionai/SmilePass) | A facial expression detection plugin that encourages positive interactions — inspired by use cases in healthcare and smart environments. |
+| Plugin Toolkit | Backend resources for developers to build new blocks and extend the ecosystem. |
+| Augelab Templates | Pre-configured templates to quickly start vision or logic-based scenarios — no coding required. |
+
+---
+
+## 🌱 Open Source & No-Code Contribution
+
+We believe in inclusive innovation.  
+That’s why our tools are not just open-source — they’re **visually programmable**.
+
+💡 Using **AugeLab Studio**, you can build real AI workflows by connecting blocks, without writing code.  
+🛠️ Developers can still contribute backend plugins in Python, and expand the ecosystem.
+
+### ✨ You can contribute by:
+- Designing new visual scenarios  
+- Suggesting new plugin ideas  
+- Improving docs and tutorials  
+- Building new Python-based plugin blocks  
+- Sharing how you use our tools!
+
+No matter your background — if you're curious about AI, you're welcome here.
+
+---
+
+## 📬 Get in Touch
+
+📧 Email: [futureactionai@gmail.com](mailto:futureactionai@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/company/futureactionai) | [Instagram](https://www.instagram.com/futureactionai)
+
+---
+
+<p align="center"><i>Let's build smarter tools — together.</i></p>
